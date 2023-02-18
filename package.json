@@ -1,0 +1,23 @@
+{
+  "name": "coin-collector-rash",
+  "version": "1.0.0",
+  "description": "![logo](https://user-images.githubusercontent.com/44912347/202273653-1c259f67-7b01-46fc-8e4d-ccb804649e27.jpg)",
+  "main": "coins.js",
+  "scripts": {
+    "test": "jest --watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasheeda1/coin-collector-rash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasheeda1/coin-collector-rash/issues"
+  },
+  "homepage": "https://github.com/rasheeda1/coin-collector-rash#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
